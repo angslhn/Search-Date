@@ -72,7 +72,7 @@ const Main = () => {
   return (
     <>
       <header className="search-date-title">
-        <Text type="h1" className="search-date-title-text" text="SEARCH DATE" />
+        <Text type="h1" className="search-date-title-text" text="Search Date" />
         <Text
           type="p"
           className="search-date-title-text"
